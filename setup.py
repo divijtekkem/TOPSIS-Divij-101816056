@@ -7,7 +7,7 @@ setup(
   description = 'This library helps in implementing topsis method',   # Give a short description about your library
   author = 'Divij Tekkem',                   # Type in your name
   author_email = 'dtekkem_be18@thapar.edu',      # Type in your E-Mail
-  url = 'https://github.com/ARJUN-MALIK/Topsis-ArjunMalik-101816029',   # Provide either the link to your github or to your website
+  url = 'https://github.com/divijtekkem/TOPSIS-Divij-101816056',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/divijtekkem/TOPSIS-Divij-101816056/archive/v1.0.tar.gz',    # I explain this later on
   keywords = ['SIMPLE', 'TOPSIS'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
